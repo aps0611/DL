@@ -10,7 +10,7 @@ DeepLearning Notes
 | 03A     | Extras: Edge detection <sobel filter>                      | https://github.com/aps0611/DL/blob/a7539a536aa8df0bab47d52f551cc1cbeec81198/day03_edge_detection.ipynb |
 | 04      | Theory- Vectors/ Differentiation/ MAX/MIN                  | https://github.com/aps0611/DL/blob/a7539a536aa8df0bab47d52f551cc1cbeec81198/Day-04_vectors_differentiation_maxima_minima.pdf |
 | 05      | Theory: Gradient Descent and Ascent                        | https://github.com/aps0611/DL/blob/a7539a536aa8df0bab47d52f551cc1cbeec81198/Day-05_gradient_descent_ascent_theory.pdf |
-|         |                                                            |                                                              |
+|  06     | Chain Rule, Backpropogation derivation and Tensorflow      |                                                              |
 |         |                                                            |                                                              |
 
 
