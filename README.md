@@ -11,7 +11,7 @@ Instructor: @c17hawke
 | 03A     | Extras: Edge detection <sobel filter>                      | https://github.com/aps0611/DL/blob/a7539a536aa8df0bab47d52f551cc1cbeec81198/day03_edge_detection.ipynb |
 | 04      | Theory- Vectors/ Differentiation/ MAX/MIN                  | https://github.com/aps0611/DL/blob/a7539a536aa8df0bab47d52f551cc1cbeec81198/Day-04_vectors_differentiation_maxima_minima.pdf |
 | 05      | Theory: Gradient Descent and Ascent                        | https://github.com/aps0611/DL/blob/a7539a536aa8df0bab47d52f551cc1cbeec81198/Day-05_gradient_descent_ascent_theory.pdf |
-|  06     | Chain Rule, Backpropogation derivation and Tensorflow      |                                                              |
+|  06     | Chain Rule, Backpropogation derivation and Tensorflow      | https://github.com/aps0611/DL/blob/0a3aee85d8449c921edbdae88920b85b246ee657/Day-06_backpropogation_chainrule_basics.pdf                                                            |
 |  06A    | Pytorch: Exploration                                       | https://c17hawke.github.io/Pytorch-basics/                   |
 
 
