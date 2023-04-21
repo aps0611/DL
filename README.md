@@ -13,6 +13,6 @@ Instructor: @c17hawke
 | 05      | Theory: Gradient Descent and Ascent                        | https://github.com/aps0611/DL/blob/a7539a536aa8df0bab47d52f551cc1cbeec81198/Day-05_gradient_descent_ascent_theory.pdf |
 |  06     | Chain Rule, Backpropogation derivation and Tensorflow      | https://github.com/aps0611/DL/blob/0a3aee85d8449c921edbdae88920b85b246ee657/Day-06_backpropogation_chainrule_basics.pdf                                                            |
 |  06A    | Pytorch: Exploration                                       | https://c17hawke.github.io/Pytorch-basics/                   |
-|  06B    | Tensorflow Basics                                          |      |
+|  06B    | Tensorflow Basics                                          | https://github.com/aps0611/DL/blob/d70a00be1a73f9f7b6d74ffee5db5115dd7413b1/TensorFlow.ipynb     |
 
 
