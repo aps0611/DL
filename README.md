@@ -14,5 +14,7 @@ Instructor: @c17hawke
 |  06     | Chain Rule, Backpropogation derivation and Tensorflow      | https://github.com/aps0611/DL/blob/0a3aee85d8449c921edbdae88920b85b246ee657/Day-06_backpropogation_chainrule_basics.pdf                                                            |
 |  06A    | Pytorch: Exploration                                       | https://c17hawke.github.io/Pytorch-basics/                   |
 |  06B    | Tensorflow Basics                                          | https://github.com/aps0611/DL/blob/d70a00be1a73f9f7b6d74ffee5db5115dd7413b1/TensorFlow.ipynb     |
+|  07A    | Understanding the difficulty of training deep feedforward neural networks | http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf |
+
 
 
