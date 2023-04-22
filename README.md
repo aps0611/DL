@@ -16,6 +16,8 @@ Instructor: @c17hawke
 |  06B    | Tensorflow Basics                                          | https://github.com/aps0611/DL/blob/d70a00be1a73f9f7b6d74ffee5db5115dd7413b1/TensorFlow.ipynb     |
 |  07A    | Understanding the difficulty of training deep feedforward neural networks | http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf |
 |  07B    | Issues in NN + Weights Initialization in DNN | https://github.com/aps0611/DL/blob/74d0828acce5f01266f6659a455a33e8337b3874/Day-07_weight_initialization_problem_in_DNN.pdf |
+|  07C    | activation functions their advantages and disadvantages | https://github.com/aps0611/DL/blob/bde7092a87805916147e917b28f6c294ea6f41ea/Day-07_activation_functions_part1.pdf |
+
 
 
 
