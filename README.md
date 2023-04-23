@@ -22,7 +22,8 @@ Instructor: @c17hawke
 |  07C    | activation functions their advantages and disadvantages | https://github.com/aps0611/DL/blob/bde7092a87805916147e917b28f6c294ea6f41ea/Day-07_activation_functions_part1.pdf |
 | 07D     | More on activation functions | https://github.com/aps0611/DL/blob/2dbc18f75ac3540f466e4eab8da19890413c6275/Day-07_activationfunctions_part-2.pdf|
 |   08A   | Batch Normalization & Transfer Learning Theory | https://github.com/aps0611/DL/blob/a3daf87895845fceeb5c5ffd5346d3e5994cecc8/Day-08_BATCH_NORMALIZATION.pdf |
-|   08B   | BN Notebook                |  |
+|   08B   | BN Notebook                | https://github.com/aps0611/DL/blob/8170c2ae159845286d8c19ec434f866c7f0b5570/BN.ipynb |
+|   08C   | Transfer Learning Notebook  |  |
 
 
 
