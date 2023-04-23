@@ -23,7 +23,7 @@ Instructor: @c17hawke
 | 07D     | More on activation functions | https://github.com/aps0611/DL/blob/2dbc18f75ac3540f466e4eab8da19890413c6275/Day-07_activationfunctions_part-2.pdf|
 |   08A   | Batch Normalization & Transfer Learning Theory | https://github.com/aps0611/DL/blob/a3daf87895845fceeb5c5ffd5346d3e5994cecc8/Day-08_BATCH_NORMALIZATION.pdf |
 |   08B   | BN Notebook                | https://github.com/aps0611/DL/blob/8170c2ae159845286d8c19ec434f866c7f0b5570/BN.ipynb |
-|   08C   | Transfer Learning Notebook  |  |
+|   08C   | Transfer Learning Notebook  | https://github.com/aps0611/DL/blob/5277941c009ecd0606c98302695441ab1e7b6365/day_08_transferlearning.ipynb |
 
 
 
